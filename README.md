@@ -1,12 +1,13 @@
 <h1 align="center">Hey there 👋 I'm <span style="color:#007ACC;">Komakshi Sharma</span></h1>
 
 <p align="center">
-  🎓 <b>B.Tech Student | Java • Python • Linux Enthusiast | Problem Solver</b>  
+  🎓 <b>B.Tech Student | Java • Python • Linux Enthusiast | DSA Learner | Problem Solver</b>  
 </p>
 
 <p align="center">
   <a href="mailto:komakshi.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/komakshi-sharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/komakshi-sharma"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
 </p>
 
@@ -18,18 +19,17 @@
 
 ## 🚀 About Me
 
-I'm **Komakshi Sharma**, a curious and driven tech learner, certified in **Java**, **Python**, and **Linux**. I enjoy building clean, functional software and continuously exploring how systems work under the hood.
-
-I’m focused on sharpening my programming skills and creating meaningful projects that solve real-world problems.
+I'm **Komakshi Sharma**, a dedicated tech learner and coding enthusiast, certified in **Java**, **Python**, and **Linux**.  
+Currently focused on sharpening my **Data Structures & Algorithms** skills and contributing to real-world software projects.
 
 ---
 
 ## 🌱 Currently Exploring
 
-- 📁 **SecureBox** – A privacy-focused file vault using Python & Cryptography  
-- 🐍 Python scripting for automation & utilities  
-- 🧠 Core DSA (Data Structures & Algorithms) with Java  
-- 🐧 Deep diving into Linux shell & system tools
+- 🔐 **SecureBox** – A secure file vault using Python & Linux  
+- 📊 Solving DSA problems on [LeetCode](https://leetcode.com/komakshi-sharma)  
+- 🔄 Automating tasks using Python scripting  
+- 🐧 Learning advanced Linux commands and shell scripting  
 
 ---
 
@@ -39,6 +39,7 @@ I’m focused on sharpening my programming skills and creating meaningful projec
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA%20Practice-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
@@ -57,9 +58,10 @@ I’m focused on sharpening my programming skills and creating meaningful projec
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/komakshi-sharma)  
-- ✉️ Email: komakshi.email@example.com  
+- ✉️ Email: komakshisharma3866@gmail.com 
+- 🧩 LeetCode: [leetcode.com/komakshi-sharma](https://leetcode.com/komakshi-sharma)  
 - 🗂️ [Resume](https://your-resume-link.com)
 
 ---
 
-> "Stay curious, keep coding, and build what matters."
+> “The best way to learn is to build, break, and rebuild.” – Komakshi Sharma
